@@ -12,6 +12,5 @@ Open web/WGR_minigame1.html
 
 or 
 
-https://kitao.github.io/pyxel/wasm/launcher/?play=nishlumi.wgr_minigame01.dist.WGR_minigame1.pyxapp
-
+https://kitao.github.io/pyxel/wasm/launcher/?play=nishlumi.wgr_minigame01.dist.WGR_minigame1&gamepad=enabled
 
