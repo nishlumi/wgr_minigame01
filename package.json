@@ -1,0 +1,21 @@
+{
+  "name": "testgame1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "pyxel package WGR_minigame1 .\\WGR_minigame1\\game.py && move .\\WGR_minigame1.pyxapp dist\\",
+    "play" : "pyxel play WGR_minigame1.pyxapp",
+    "packweb": "pyxel app2html .\\dist\\WGR_minigame1.pyxapp && move WGR_minigame1.html web",
+    "clearbuild": "del .\\dist\\*.pyxapp",
+    "clearweb": "del .\\web\\WGR_minigame1.html",
+    "editres" : "pyxel edit .\\WGR_minigame1\\my_resource.pyxres"
+  },
+  "keywords": [
+    "Python",
+    "Pyxel"
+  ],
+  "author": "ISHII Eiju",
+  "license": "MIT",
+  "description": "Mini game for Warship-Girls R"
+}
