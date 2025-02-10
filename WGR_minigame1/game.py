@@ -1,6 +1,6 @@
 import pyxel
 # title: Warship-Girls mini game
-# author: ISHII Eiju
+# author: lumis(lumidina)
 # desc: Mini shooting game for Warship-Girls R
 # license: MIT
 # version: 1.0
